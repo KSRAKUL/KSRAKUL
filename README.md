@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rakul K S
+#  Hi, I'm Rakul K S
 
 💼 Software Developer - AI/ML & Full Stack Application Development
 💡 Passionate about AI, Machine Learning, and App Development
