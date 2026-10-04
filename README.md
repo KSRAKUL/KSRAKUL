@@ -1,14 +1,16 @@
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">Hi, I'm K S Rakul 👋</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00D4FF&height=250&section=header&text=K%20S%20RAKUL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Application%20Developer&descAlignY=58&descSize=17"
+    width="100%"
+    alt="K S RAKUL — AI Engineer | Software Engineer | Application Developer"
+  />
+</p>
 
 <h3 align="center">
-  AI Engineer | Software Engineer | Application Developer
+  Infrastructure Specialist @ Kyndryl
 </h3>
-
-<p align="center">
-  <b>Infrastructure Specialist @ Kyndryl</b>
-</p>
 
 <p align="center">
   Building intelligent applications through AI, software engineering, and modern development technologies.
@@ -26,6 +28,7 @@
   </a>
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -225,10 +228,12 @@ An AI-powered voice conversion platform for training target voice models and con
 |:---|:---|
 | 🥉 IEEE AI Vision Hackathon 2025 | 3rd Place – Real-Time Sign Language Translation |
 | 🥉 Google Developer Groups – Prompt Engineering | 3rd Prize – Innovative AI Solution Design |
-| 🥉 GDG & GFG HackFest | 3rd Place - strong problem solving under pressure |
+| 🥉 GDG & GFG HackFest | 3rd Place – Strong problem solving under pressure |
 | 🧩 LeetCode | Top 15% Globally · 180+ Problems Solved |
 | 📱 ECO CROPS | Published on Amazon Appstore · 12+ Months Maintained |
 | 📚 IEEE Research Publication | Explainable Brain Tumor Classification |
+
+---
 
 ## 🎯 Areas of Interest
 
@@ -258,10 +263,10 @@ Always happy to share knowledge, exchange ideas, and build something meaningful 
 
 <p align="center">
   <a href="mailto:ksrakul27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0F766E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=115E59" />
   </a>
   <a href="https://www.linkedin.com/in/ksrakul/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084C8D" />
   </a>
   <a href="https://leetcode.com/u/ksrakul27/">
     <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
