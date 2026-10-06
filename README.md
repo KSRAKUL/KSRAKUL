@@ -247,7 +247,7 @@ An AI-powered voice conversion platform for training target voice models and con
 
 ## 🤝 Let's Connect & Collaborate
 
-Have an idea, a technical challenge, or need a hand with something? 🚀
+Have an idea! a technical challenge, or need a hand with something? 🚀
 
 Feel free to reach out for discussions, collaboration, or support in **Artificial Intelligence, LLMs, Software Development, and Application Development.**
 
